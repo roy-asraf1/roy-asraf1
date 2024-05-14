@@ -2,7 +2,6 @@
 ## 🖥️ A third year student in computer science at Ariel University 
 
 ## 📫 How to reach me:
-
 Email: roy2796@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-asraf-89612622a)
