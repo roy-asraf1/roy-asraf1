@@ -8,11 +8,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roy_asraf)
 
  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1)
 
 ## Languages and Tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
