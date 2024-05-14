@@ -1,11 +1,12 @@
 # Hello, GitHub Visitors! I'm Roy👋
 ### 🖥️ A third year student in computer science at Ariel University 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=roy-asraf1.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=roy-asraf1.roy-asraf1)
 
 
 ### 📫 How to reach me:
 
 Email: roy2796@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-asraf-89612622a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roy_asraf)
 
