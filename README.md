@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Roy👋
+# 🖥️ A third year student in computer science at Ariel University 🖥️
+
+* 📫 How to reach me roy2796@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact)
+
+
+
+
+
+
 
 <!--
 **roy-asraf1/roy-asraf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
