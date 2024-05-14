@@ -1,20 +1,20 @@
 # Hello, GitHub Visitors! I'm Roy👋
-### 🖥️ A third year student in computer science at Ariel University 
+## 🖥️ A third year student in computer science at Ariel University 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 Email: roy2796@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-asraf-89612622a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roy_asraf)
 
-## My GitHub Stats
+### My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-## Most Used Languages
+### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=dark)
 
-## My GitHub Streak
+### My GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1&theme=dark)
 
 
