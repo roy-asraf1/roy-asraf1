@@ -10,7 +10,7 @@ Email: roy2796@gmail.com
 
  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1)
 
