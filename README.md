@@ -7,15 +7,11 @@ Email: roy2796@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-asraf-89612622a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roy_asraf)
 
-### My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=dark)
 
 ### My GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1&theme=dark)
-
 
 ## Languages and Tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -41,6 +37,9 @@ Email: roy2796@gmail.com
 
 <!--
 **roy-asraf1/roy-asraf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 Here are some ideas to get you started:
 
