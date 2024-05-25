@@ -16,7 +16,7 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ### My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-## Languages and Tools:
+## 🚀 Languages and Tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -38,29 +38,30 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Projects
+## 🚀 Projects
 ### [Autonomous Robots Project](https://github.com/yourusername/autonomous-robots)
 Developed an autonomous drone navigation system using Python and Pygame. The drone can navigate a 2D map, log its distances, and interact with the user via graphical buttons.
 
-## Certifications
+## 📜 Certifications
 - AWS Certified Solutions Architect
 - Cisco Certified Network Associate (CCNA)
 
-## Interests
+## 🌱 Interests
 - Machine Learning
-- Frontend
-- Devops
+- Frontend Development
+- DevOps
 - Cybersecurity
 
-## Hobbies
-- Playing Chess
-- Anime
-- Traveling
-- Food
+## 🎯 Hobbies
+- ♟️ Playing Chess
+- 🎥 Watching Anime
+- 🌍 Traveling
+- 🍕 Eating Food
 
-## Fun Facts
+## 🎉 Fun Facts
 - I'm a Linux enthusiast and love experimenting with different distributions.
 - I'm passionate about learning new technologies and improving my skills.
 - I'm an avid chess player and participate in online chess tournaments.
 
+---
 
