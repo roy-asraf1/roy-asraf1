@@ -38,9 +38,6 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🚀 Projects
-### [Autonomous Robots Project](https://github.com/yourusername/autonomous-robots)
-Developed an autonomous drone navigation system using Python and Pygame. The drone can navigate a 2D map, log its distances, and interact with the user via graphical buttons.
 
 ## 📜 Certifications
 - AWS Certified Solutions Architect
