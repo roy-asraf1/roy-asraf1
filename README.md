@@ -63,6 +63,4 @@ Developed an autonomous drone navigation system using Python and Pygame. The dro
 - I'm passionate about learning new technologies and improving my skills.
 - I'm an avid chess player and participate in online chess tournaments.
 
----
 
-**roy-asraf1/roy-asraf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
