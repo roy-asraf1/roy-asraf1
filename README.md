@@ -1,4 +1,4 @@
-# Hello, GitHub Visitors! I'm Roy 👋
+# Hello, GitHub Visitors! I'm Roy Asraf 👋
 ## 🖥️ A third-year computer science student at Ariel University 
 
 ## 📫 How to reach me:
