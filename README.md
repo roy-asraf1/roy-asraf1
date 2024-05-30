@@ -39,10 +39,6 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-## 📜 Certifications
-- AWS Certified Solutions Architect
-- Cisco Certified Network Associate (CCNA)
-
 ## 🌱 Interests
 - Machine Learning
 - Frontend Development
@@ -58,7 +54,6 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ## 🎉 Fun Facts
 - I'm a Linux enthusiast and love experimenting with different distributions.
 - I'm passionate about learning new technologies and improving my skills.
-- I'm an avid chess player and participate in online chess tournaments.
 
 ---
 
