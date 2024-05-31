@@ -8,7 +8,7 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roy_asraf)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=dark&langs_count=10)
 
 ### My GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1&theme=dark)
