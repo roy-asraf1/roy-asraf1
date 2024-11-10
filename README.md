@@ -1,5 +1,5 @@
 # Hello, GitHub Visitors! I'm Roy Asraf 👋
-## 🖥️ BSC at computer science student at Ariel University 
+## 🖥️ BSC at computer science 
 
 ## 📫 How to reach me:
 Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
