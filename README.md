@@ -18,7 +18,6 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 
 ## 🚀 Languages and Tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CCNA](https://img.shields.io/badge/-CCNA-0052CC?style=flat&logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -40,7 +39,7 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 
 
 ## 🌱 Interests
-- Machine Learning
+- נ
 - Frontend Development
 - DevOps
 - Cybersecurity
@@ -50,10 +49,6 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 - 🎥 Watching Anime
 - 🌍 Traveling
 - 🍕 Eating Food
-
-## 🎉 Fun Facts
-- I'm a Linux enthusiast and love experimenting with different distributions.
-- I'm passionate about learning new technologies and improving my skills.
 
 ---
 
