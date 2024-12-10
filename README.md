@@ -27,7 +27,6 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 
 
 ## 🌱 Interests
-- נ
 - Frontend Development
 - Backend Development
 
