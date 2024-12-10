@@ -10,25 +10,13 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=dark&langs_count=12)
 
-### My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1&theme=dark)
 
-### My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ## 🚀 Languages and Tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CCNA](https://img.shields.io/badge/-CCNA-0052CC?style=flat&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
-![XSD](https://img.shields.io/badge/-XSD-439FE0?style=flat)
-![XML](https://img.shields.io/badge/-XML-F05032?style=flat&logo=xml&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -41,8 +29,8 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 ## 🌱 Interests
 - נ
 - Frontend Development
-- DevOps
-- Cybersecurity
+- Backend Development
+
 
 ## 🎯 Hobbies
 - ♟️ Playing Chess
