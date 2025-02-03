@@ -27,9 +27,7 @@ Email: [roy2796@gmail.com](mailto:roy2796@gmail.com)
 
 
 ## 🌱 Interests
-- Frontend Development
-- Backend Development
-
+- Devops 
 
 ## 🎯 Hobbies
 - ♟️ Playing Chess
