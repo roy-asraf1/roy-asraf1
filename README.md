@@ -15,13 +15,15 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
+
+</p>
 
 # 🧠 Core Expertise
 
