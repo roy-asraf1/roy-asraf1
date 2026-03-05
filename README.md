@@ -1,11 +1,7 @@
-# 👋 Hello, GitHub Visitors! I'm Roy Asraf
+<h1 align="center">Hi 👋, I'm Roy Asraf</h1>
+<h3 align="center">System Engineer | DevOps | Active Directory Specialist</h3>
 
 🎓 **B.Sc. Computer Science**  
-💻 **System Engineer | DevOps | Active Directory Specialist**  
-🚀 Passionate about **Automation, Cybersecurity, AI for IT Infrastructure**
-
----
-
 # 📫 Contact Me
 
 📧 Email: roy2796@gmail.com
