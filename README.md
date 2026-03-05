@@ -17,9 +17,9 @@
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,6 +45,7 @@
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Containers](https://img.shields.io/badge/Containers-0db7ed?style=flat&logo=docker&logoColor=white)
 
 ## 🌐 Networking
 ![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
@@ -56,6 +57,7 @@
 ## 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -74,14 +76,15 @@
 
 ---
 
-# 🎯 Interests
+# 🧠 Core Expertise
 
-- DevOps  
-- Cybersecurity  
-- System Architecture  
-- Active Directory Automation  
-- Cloud Infrastructure  
-- AI for IT Management  
+- Active Directory Architecture
+- Group Policy Engineering
+- Identity & Access Management
+- PowerShell Automation
+- Infrastructure Engineering
+- DevOps & Containers
+- AI for IT Operations (AIOps)
 
 ---
 
