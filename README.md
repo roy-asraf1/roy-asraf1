@@ -18,18 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 
-
-# 🧠 Core Expertise
-
-- Active Directory Architecture
-- Group Policy Engineering
-- Identity & Access Management
-- DevOps Automation
-- Infrastructure Engineering
-- AI for IT Operations (AIOps)
-
----
-
 # 🛠️ Technologies & Tools
 
 ## 🖥️ Systems
