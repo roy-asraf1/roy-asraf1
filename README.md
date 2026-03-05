@@ -15,13 +15,14 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+# 📊 GitHub Stats:<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=ayu-mirage" alt=roy-asraf1 />
 
-<img src="https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&locale=en&theme=ayu-mirage" alt="roy-asraf1" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight&hide_border=true"/>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roy-asraf1&theme=ayu-mirage" alt="roy-asraf1" /></p>
 
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 
 
 # 🧠 Core Expertise
