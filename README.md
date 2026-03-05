@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy Asraf</h1>
 <h3 align="center">System Engineer | DevOps | Active Directory Specialist</h3>
+<h3 align="center">🎓 B.Sc. Computer Science  </h3>
 
-🎓 **B.Sc. Computer Science**  
 # 📫 Contact Me
 
 📧 Email: roy2796@gmail.com
@@ -11,15 +11,13 @@
 
 ---
 
+
+
 ## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight)
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roy-asraf1&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-asraf1&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
-
-</p>
 
 # 🧠 Core Expertise
 
